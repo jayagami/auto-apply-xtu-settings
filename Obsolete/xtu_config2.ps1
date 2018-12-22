@@ -1,4 +1,3 @@
-# 降压：-undervolt;平均功耗：-watt;瞬时功耗：-bostwatt;瞬时时间：-boottime
 param (
     [int]$undervolt=$(throw "Parameter missing: -undervolt") ,
     [int]$watt=$(throw "Parameter missing: -watt") ,
