@@ -1,9 +1,12 @@
-# aut-apply-xtu-settings
-first time write ps scripts
-little tool to auto apply some xtu settings when log in
+# auto-apply-xtu-settings
+**You should konw what you are doing!!!**
 
-XTU is annoying when undervolting, after restart computer ,you may lose your settings.
-This script is to automatically apply under-volt and other settings in XTU without opening it ,of course you have to install XTU. 
+First time write ps scripts, never learned before, could be a mess.
+
+>XTU is annoying when undervolting, after restart computer ,you may lose your settings.
+>This script is to automatically apply under-volt and other settings in XTU without opening it ,of course you have to install XTU. 
+
+
 
 ## How to enable?
 1. install XTU
@@ -16,3 +19,11 @@ This script is to automatically apply under-volt and other settings in XTU witho
 ## How to disable?
 1. run uninstall.exe with admin
 
+## What xtu settings you can auto enable with this script?
+1. under-volt
+2. long boost watt
+3. short boost watt
+4. short boost time
+
+
+If you know more about xtucli, plz tell me.
