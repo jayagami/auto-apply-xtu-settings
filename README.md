@@ -1,5 +1,6 @@
 # auto-apply-xtu-settings
-**You should konw what you are doing!!!**
+**You should konw what you are doing!!!Test before.**
+
 
 First time write ps scripts, never learned before, could be a mess.
 
