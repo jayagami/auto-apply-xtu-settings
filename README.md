@@ -13,12 +13,13 @@ First time write ps scripts, never learned before, could be a mess.
 1. install XTU
 2. download files
 3. cd to the directory of files you download 
-4. run powershell with admin 
+4. run `auto-apply-xtu-settings.exe` with admin 
 5. input right values for your computer, you should test these values before you enable them.
 6. reboot your computer
+`You should disable old settings everytime you apply new settings`
 
 ## How to disable?
-1. run uninstall.exe with admin
+1. run `remove_xtu_config.exe` with admin
 
 ## What xtu settings you can auto enable with this script?
 1. under-volt
@@ -28,3 +29,5 @@ First time write ps scripts, never learned before, could be a mess.
 
 
 If you know more about xtucli, plz tell me.
+
+  print('Thanks')
