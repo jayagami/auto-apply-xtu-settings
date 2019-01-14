@@ -2,7 +2,8 @@
 
 **You should konw what you are doing!!!Test before.**
 
-__You don't need follows anymore, now all you need to do is input xtu profile name__
+__all you need to do is input xtu profile name. [auto-apply-profile](https://github.com/jayagami/auto-apply-xtu-settings/releases/tag/auto-apply-profile)__
+
 
 
 First time write ps scripts, never learned before, could be a mess.
@@ -10,6 +11,7 @@ First time write ps scripts, never learned before, could be a mess.
 >XTU is annoying when undervolting, after restart computer ,you may lose your settings.
 >This script is to automatically apply under-volt and other settings in XTU without opening it ,of course you have to install XTU. 
 
+Now need to see below anymore.
 
 ---
 ## How to enable?
