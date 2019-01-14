@@ -1,6 +1,6 @@
 # auto-apply-xtu-settings
 **You should konw what you are doing!!!Test before.**
-
+**Suggest to use auto apply xtu profile!**
 
 First time write ps scripts, never learned before, could be a mess.
 
@@ -9,6 +9,8 @@ First time write ps scripts, never learned before, could be a mess.
 
 
 
+
+---
 ## How to enable?
 1. install XTU
 2. download files
