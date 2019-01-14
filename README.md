@@ -2,7 +2,7 @@
 
 **You should konw what you are doing!!!Test before.**
 
-__all you need to do is input xtu profile name. [auto-apply-profile](https://github.com/jayagami/auto-apply-xtu-settings/releases/tag/auto-apply-profile)__
+__all you need to do is inputing xtu profile name. [auto-apply-profile](https://github.com/jayagami/auto-apply-xtu-settings/releases/tag/auto-apply-profile)__
 
 
 
