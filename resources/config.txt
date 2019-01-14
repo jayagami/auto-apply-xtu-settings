@@ -1,0 +1,1 @@
+ .\ps2exe.ps1 -inputFile .\auto_apply_profile.ps1 -iconFile .\intel.ico -title "auto apply xtu profile" -company "Jay"  -outputFile .\auto-apply-xtu.exe -verbose -x86 -copyright GPL -requireAdmin -version 1.0.0 -description "Apply xtu profile at logon" -product auto-xtu-profile
