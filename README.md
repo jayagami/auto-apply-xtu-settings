@@ -11,7 +11,7 @@ First time write ps scripts, never learned before, could be a mess.
 >XTU is annoying when undervolting, after restart computer ,you may lose your settings.
 >This script is to automatically apply under-volt and other settings in XTU without opening it ,of course you have to install XTU. 
 
-Now need to see below anymore.
+No need to see below anymore.
 
 ---
 ## How to enable?
