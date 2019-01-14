@@ -32,4 +32,4 @@ First time write ps scripts, never learned before, could be a mess.
 
 If you know more about xtucli, plz tell me.
 
-  print('Thanks')
+ 'Thanks'
